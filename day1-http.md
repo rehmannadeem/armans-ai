@@ -256,3 +256,11 @@ Git = saves my work history
 GitHub = stores my work online
 ```
 ## Stuck On
+
+- Understanding folder location in PowerShell.
+- Understanding why `body.json` must be in the same current folder.
+- Understanding why `@body.json` failed when the file was missing.
+- Understanding Git repository setup and the hidden `.git` folder.
+- Understanding the difference between local Git commit and GitHub upload.
+- Understanding GitHub remote URL and why a URL alone is not a PowerShell command.
+- Understanding the difference between Git, GitHub, commit, push, and upload.
