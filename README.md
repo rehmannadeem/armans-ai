@@ -62,13 +62,8 @@ AI / LLMs · n8n · APIs · Python · JavaScript · JSON
 PostgreSQL · Supabase · RAG · System Design
 Automation · Integration · Data · Infrastructure
 
-## Founder
+## Background
 
-Rehman Nadeem
-
-Technology professional with nearly 25 years of experience across IT,
-systems, infrastructure, networking, technical operations and
-business-critical environments.
-
-GitHub: https://github.com/rehmannadeem
-LinkedIn: https://www.linkedin.com/in/rehman-nadeem-1b4002390/
+Armans.AI brings nearly 25 years of experience in IT, systems,
+infrastructure, networking, technical operations and business-critical
+environments to its work.
