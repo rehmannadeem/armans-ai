@@ -1,4 +1,14 @@
-# Armans.AI
+# Armans.AI — Public Learning & Automation Portfolio
+
+## Repository purpose
+
+This repository contains public learning exercises, technical notes and example automation workflows. It is **not the source repository for the armans.ai website**.
+
+The website link below points to the public business website; it does not mean that this repository deploys that website. Website source and deployment configuration are maintained separately in a private repository.
+
+Example workflows here are educational snapshots. They are not evidence that an automation is active in production. Do not commit credentials, customer records or private configuration to this public repository.
+
+---
 
 Practical AI Automation, Business Systems and System Integration.
 
